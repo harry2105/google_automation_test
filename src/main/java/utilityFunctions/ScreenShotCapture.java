@@ -32,7 +32,7 @@ public class ScreenShotCapture extends InitializeDriver{
         ImageIO.write(image, "png", new File(strPath+testCaseName+".png"));
 	}
 	 
-	
+// test new feature	
 	
 
 }
